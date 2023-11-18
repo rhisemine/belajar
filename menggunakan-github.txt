@@ -1,0 +1,5 @@
+Belajar Menggunakan Github:
+- Buat Akun
+- Buat Repositori
+- Buat File
+- Menulis Konten
